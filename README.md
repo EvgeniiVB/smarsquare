@@ -1,1 +1,1 @@
-# smarsquare
+# smartsquare
