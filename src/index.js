@@ -1,5 +1,5 @@
 
-const API_URL = 'https://05f2ef49-6377-4b0f-9557-2fd14f372b8d.mock.pstmn.io/1'
+const API_URL = 'https://keev.me/f/slowpoke.php'
 
 moveSimpleSquare(API_URL)
 
